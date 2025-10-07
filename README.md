@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/README_1200x800.gif">
@@ -433,3 +434,6 @@ The content developed by Donne Martin is distributed under the following license
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+=======
+"# Atharv-data-science-ipython-notebooks" 
+>>>>>>> aebec88f65e4c912aa7e9ee5af493a722cfd4bd1
